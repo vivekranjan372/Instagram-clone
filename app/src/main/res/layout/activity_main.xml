@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--    xmlns:tools="http://schemas.android.com/tools"-->
+    <!--   -->
+    <!--    tools:context=".MainActivity"-->
+
+
+
+
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/insta_icon"
+        android:layout_centerInParent="true"
+        android:visibility="visible"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:id="@+id/linear">
+
+        <ImageView
+            android:id="@+id/instaText"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:src="@drawable/insta" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/button_background"
+            android:text="Login"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:id="@+id/login"/>
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="10dp"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="25sp"
+            android:background="@drawable/button_background"
+            android:text="Register"
+            android:textAllCaps="false"
+            android:id="@+id/register"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

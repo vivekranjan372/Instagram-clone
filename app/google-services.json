@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "484227617625",
+    "firebase_url": "https://fir-d2ac9.firebaseio.com",
+    "project_id": "fir-d2ac9",
+    "storage_bucket": "fir-d2ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484227617625:android:1203fad3c28ecb580d7248",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484227617625-bt9aimidmn93q426ot1ll990kj4rhoru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3RzX96qtnq-5yKXDVdo0Q4iugTtDF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484227617625-bt9aimidmn93q426ot1ll990kj4rhoru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484227617625:android:74a9aa0c85368b4b0d7248",
+        "android_client_info": {
+          "package_name": "com.example.instagrame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484227617625-bt9aimidmn93q426ot1ll990kj4rhoru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3RzX96qtnq-5yKXDVdo0Q4iugTtDF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484227617625-bt9aimidmn93q426ot1ll990kj4rhoru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
